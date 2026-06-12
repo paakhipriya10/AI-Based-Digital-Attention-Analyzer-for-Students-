@@ -110,7 +110,7 @@ This project bridges that gap by combining tracking, analytics, and AI suggestio
 
 ## Output Screenshots
 
-### 1. Landing Page
+### 1. Login Page
 
 ![Landing Page](screenshots/img1.png)
 
@@ -118,7 +118,7 @@ This project bridges that gap by combining tracking, analytics, and AI suggestio
 
 ---
 
-### 2. Dashboard Analytics
+### 2. Landing Page
 
 ![Dashboard Analytics](screenshots/img2.png)
 
@@ -126,7 +126,7 @@ This project bridges that gap by combining tracking, analytics, and AI suggestio
 
 ---
 
-### 3. AI Productivity Insights
+### 3. AI Productivity Insights on Dashboard
 
 ![AI Productivity Insights](screenshots/img3.png)
 
