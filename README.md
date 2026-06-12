@@ -107,3 +107,27 @@ This project bridges that gap by combining tracking, analytics, and AI suggestio
 - Node.js
 - MongoDB Atlas account
 - Chrome Browser
+
+## Output Screenshots
+
+### 1. Landing Page
+
+![Landing Page](screenshots/img1.png)
+
+*Responsive landing page showcasing the project overview and key features.*
+
+---
+
+### 2. Dashboard Analytics
+
+![Dashboard Analytics](screenshots/img2.png)
+
+*Interactive dashboard displaying focus scores, browsing statistics, and productivity trends.*
+
+---
+
+### 3. AI Productivity Insights
+
+![AI Productivity Insights](screenshots/img3.png)
+
+*AI-generated recommendations and study improvement suggestions based on user activity.*
