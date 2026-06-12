@@ -114,7 +114,7 @@ This project bridges that gap by combining tracking, analytics, and AI suggestio
 
 ![Landing Page](screenshots/img1.png)
 
-*Responsive landing page showcasing the project overview and key features.*
+*Responsive login page with 2-factor authentication with email and OTP*
 
 ---
 
