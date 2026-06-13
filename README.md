@@ -8,6 +8,32 @@ In today's digital environment, students frequently face distractions from socia
 
 ---
 
+## Output Screenshots
+
+### 1. Login Page
+
+![Landing Page](screenshots/img1.png)
+
+*Responsive login page with 2-factor authentication with email and OTP*
+
+---
+
+### 2. Landing Page
+
+![Dashboard Analytics](screenshots/img2.png)
+
+*Interactive dashboard displaying focus scores, browsing statistics, and productivity trends.*
+
+---
+
+### 3. AI Productivity Insights on Dashboard
+
+![AI Productivity Insights](screenshots/img3.png)
+
+*AI-generated recommendations and study improvement suggestions based on user activity.*
+
+---
+
 ## Problem Statement
 
 Students lack visibility into their attention patterns during study time. While existing tools track screen time, they fail to provide:
@@ -108,26 +134,3 @@ This project bridges that gap by combining tracking, analytics, and AI suggestio
 - MongoDB Atlas account
 - Chrome Browser
 
-## Output Screenshots
-
-### 1. Login Page
-
-![Landing Page](screenshots/img1.png)
-
-*Responsive login page with 2-factor authentication with email and OTP*
-
----
-
-### 2. Landing Page
-
-![Dashboard Analytics](screenshots/img2.png)
-
-*Interactive dashboard displaying focus scores, browsing statistics, and productivity trends.*
-
----
-
-### 3. AI Productivity Insights on Dashboard
-
-![AI Productivity Insights](screenshots/img3.png)
-
-*AI-generated recommendations and study improvement suggestions based on user activity.*
